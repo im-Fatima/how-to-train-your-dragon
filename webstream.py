@@ -1,4 +1,4 @@
-import cv2
+
 
 # Open webcam (0 = default camera; change to 1 if using an external USB/DSLR)
 cap = cv2.VideoCapture(1)
